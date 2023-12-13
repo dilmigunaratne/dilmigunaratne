@@ -5,7 +5,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="" src=""C:\Users\User\OneDrive\SLIIT\github2.png"">
+ <img alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techwar.gr%2F71473%2Fpos-na-dimosiefsete-aftomata-tis-ekdoseis-tou-github-apo-tis-etiketes-git%2F&psig=AOvVaw1-1KV5GxsdztMkM80124on&ust=1702579476376000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjjoP-IjYMDFQAAAAAdAAAAABAR">
 </picture>
 
 <!---
